@@ -1,2 +1,3 @@
 # odin-recipes
 test site/html practise
+in this project i will create a simple html website to incorporate all the skills that i've been learning in the course so far. once it is completed to my satisfaction it will demonstrate my familiarity with the various aspects of HTML. The creation of pages, of links and images within these pages, working with lists, the correct use of elements and tags, and the proper use of git to record and upload the project as changes are made to it.
